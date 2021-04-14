@@ -59,7 +59,7 @@ def findCoefficient(pow):
         print(coefficients[i]) # Loop through and print all coefficients
 
 
-findCoefficient(int(input("What power should be used to expand (a+b)^x? ")))
+findCoefficient(int(input("What is the power (a+b) should be raised to? ")))
 
 
 
